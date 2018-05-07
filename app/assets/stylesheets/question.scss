@@ -1,0 +1,23 @@
+// Place all the styles related to the Question controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.answer_user {
+  border-left: 10px solid rgb(150, 150, 150);
+  padding-left: 10px;
+  background-color: rgb(255, 254, 228);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(50, 50, 240);
+}
+
+h1 {
+  font-weight: 100px;
+}
+
+.btn_blue {
+  background-color: rgb(50, 50, 240);
+}
